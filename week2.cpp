@@ -24,5 +24,7 @@ Rectangle:: ~Rectangle() {
 }
 int main(int argc, char **argv)
 {
-   
+    Rectangle myRectangle;
+    cout << "Hello World!" << endl;
+    return 0;
 }
